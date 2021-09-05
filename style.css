@@ -58,21 +58,21 @@ body{
     font-family: gotico;
     font-style:normal;
     font-weight: normal;
-    src: url(/fonts/GOTHIC.woff);
+    src: url(./fonts/GOTHIC.woff);
 }
 
 @font-face {
     font-family: futura;
     font-style:normal;
     font-weight: normal;
-    src: url(/fonts/FuturaPTBook.woff);
+    src: url(./fonts/FuturaPTBook.woff);
 }
 
 @font-face {
     font-family: futuraFino;
     font-style:normal;
     font-weight: normal;
-    src: url(/fonts/FuturaThin.woff);
+    src: url(./fonts/FuturaThin.woff);
 }
 
 .card_servicos{
