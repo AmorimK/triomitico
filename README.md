@@ -1,2 +1,1 @@
-# triopifio
-Site oficial do Trio Pífio
+# Site Oficial do Trio Pífio
