@@ -1,3 +1,3 @@
 # https://amorimk.github.io/triopifio/
 
-Site oficial do Trio Pífio
+Projeto para a aula de desenvolvimento web, que consistia num site simples utilizando conceitos básicos de HTML, JS e CSS.
