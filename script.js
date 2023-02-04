@@ -1,3 +1,3 @@
 function botao() {
-    alert("SERVIÇO PÍFIO REQUISITADO COM SUCESSO");
+    alert("SERVIÇO MÍTICO REQUISITADO COM SUCESSO");
 }
