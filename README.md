@@ -12,4 +12,4 @@ Este projeto foi feito para uma avaliação da disciplina **Desenvolvimento Web*
 
 # Autor
 
-- <a href="github.com/amorimk">Kauã Amorim</a>
+- <a href="https://www.github.com/amorimk">Kauã Amorim</a>
