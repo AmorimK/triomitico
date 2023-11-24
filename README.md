@@ -10,6 +10,7 @@ Este projeto foi feito para uma avaliação da disciplina **Desenvolvimento Web*
 - CSS
 - JavaScript
 
-# Autor
+# Autores 
 
 - <a href="https://www.github.com/amorimk">Kauã Amorim</a>
+- <a href="https://github.com/LucasssLimaa">Lucas Lima</a>
